@@ -18,7 +18,7 @@ public class P4DataTypes {
     char	    2 bytes	    Stores a single character/letter or ASCII values
      */
     public static void main(String[] args) {
-    int mynum = 10;
+    /*int mynum = 10;
     float myfloat = 10.5f;
     double mydouble = 10.5;
     boolean myboolean = false;
@@ -36,6 +36,28 @@ public class P4DataTypes {
         System.out.println("Byte: "+mybyte);
         System.out.println("Short: "+myshort);
         System.out.println("Boolean: "+myboolean);
-        System.out.printf("Character: "+mychar);
+        System.out.printf("Character: "+mychar);*/
+
+        byte mybyte = 100;
+        System.out.println("Byte :"+mybyte);
+        short myshort = 5000;
+        System.out.println("Shor :"+myshort);
+        int myint = 50000;
+        System.out.println("Int :"+myint);
+        long mylong = 10000000000L;
+        System.out.println("Long :"+mylong);
+        float myfloat = 5.75f;
+        System.out.println("Float :"+myfloat);
+        double mydouble = 5.75;
+        System.out.println("Double :"+mydouble);
+        boolean Areyouhappy = true;
+        boolean Areyounothappy = false;
+        System.out.println("Boolean1 :"+Areyouhappy);
+        System.out.println("Boolean2 :"+Areyounothappy);
+        char myVar1 = 65, myVar2 = 66, myVar3 = 67;
+        System.out.println(myVar1);
+        System.out.println(myVar2);
+        System.out.println(myVar3);
+
     }
 }
