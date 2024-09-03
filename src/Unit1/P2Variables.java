@@ -21,9 +21,16 @@ public class P2Variables {
         System.out.println(d);
         System.out.println(e);
 
-        int a = 10;
-        int b = 20;
-        int c = a + b;
-        System.out.println(c);
+        int aa = 10;
+        int bb = 20;
+        int cc = aa + bb;
+        System.out.println(cc);
+
+        //Declaring multiple variables
+        int x, y, z;
+        x = 10;
+        y = 20;
+        z = 30;
+        System.out.println(x+y+z);
     }
 }
