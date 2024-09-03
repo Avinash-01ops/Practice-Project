@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dcb7dd3-f06b-4d5e-a492-e75967c2bba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit1/P6Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit1/P7Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.P5JavaNumbers.executor": "Run",
     "Application.P5JavaTypeCasting.executor": "Run",
     "Application.P6Operators.executor": "Run",
+    "Application.P7Strings.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -59,20 +60,7 @@
     "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P6Operators">
-    <configuration name="P3StudentData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P3StudentData" />
-      <module name="Practice Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P7Strings">
     <configuration name="P4AreaofRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit1.P4AreaofRectangle" />
       <module name="Practice Project" />
@@ -125,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P7Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1.P7Strings" />
+      <module name="Practice Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P7Strings" />
         <item itemvalue="Application.P6Operators" />
         <item itemvalue="Application.P5JavaTypeCasting" />
         <item itemvalue="Application.P4DataTypes" />
         <item itemvalue="Application.P4AreaofRectangle" />
-        <item itemvalue="Application.P3StudentData" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725358548754</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Operators">
+      <option name="closed" value="true" />
+      <created>1725360884056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725360884057</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,6 +201,7 @@
     <MESSAGE value="Updated2" />
     <MESSAGE value="Updated3" />
     <MESSAGE value="TypeCastingCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="TypeCastingCode" />
+    <MESSAGE value="Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
   </component>
 </project>
