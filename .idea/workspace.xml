@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dcb7dd3-f06b-4d5e-a492-e75967c2bba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit1/P8MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit1/P9Conditionals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Application.P6Operators.executor": "Run",
     "Application.P7Strings.executor": "Run",
     "Application.P8MathClass.executor": "Run",
+    "Application.P9Conditionals.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -61,20 +62,7 @@
     "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P8MathClass">
-    <configuration name="P4DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P4DataTypes" />
-      <module name="Practice Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P9Conditionals">
     <configuration name="P5JavaTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit1.P5JavaTypeCasting" />
       <module name="Practice Project" />
@@ -127,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P9Conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1.P9Conditionals" />
+      <module name="Practice Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P9Conditionals" />
         <item itemvalue="Application.P8MathClass" />
         <item itemvalue="Application.P7Strings" />
         <item itemvalue="Application.P6Operators" />
         <item itemvalue="Application.P5JavaTypeCasting" />
-        <item itemvalue="Application.P4DataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725361917604</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Stringoperators">
+      <option name="closed" value="true" />
+      <created>1725362623903</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725362623903</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,5 +222,16 @@
     <MESSAGE value="Operators" />
     <MESSAGE value="Stringoperators" />
     <option name="LAST_COMMIT_MESSAGE" value="Stringoperators" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unit1/P8MathClass.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
