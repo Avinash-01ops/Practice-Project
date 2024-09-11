@@ -50,5 +50,56 @@ public class P9Conditionals
         }else {
             System.out.println("Num is zero");
         }
+
+        //else statement
+        int num1 = 10;
+        if(num1>100){
+            System.out.println("Num1 is greater than 100");
+        }else{
+            System.out.println("Num1 is less than 100");
+        }
+
+        int age = 15;
+        if(age>18){
+            System.out.println("Eligible for voting");
+        }
+        else{
+            System.out.println("Not eligible for voting");
+        }
+
+        //elseif ladder
+
+        String Day = "Saturday";
+        if(Day == " Monday") {
+            System.out.println("Hello, Today is Monday.");
+        } else if (Day=="Tuesday") {
+            System.out.println("Hello, Today is Tuesday.");
+        } else if (Day=="Wednesday") {
+            System.out.println("Hello, Today is Wednesday.");
+        } else if (Day=="Thursday") {
+            System.out.println("Hello, Today is Thursday.");
+        } else if (Day=="Friday") {
+            System.out.println("Hello, Today is Friday.");
+        } else if (Day=="Saturday") {
+            System.out.println("Hello, Today is Saturday.");
+        } else  {
+            System.out.println("Hello, Today is Sunday.");
+        }
+
+        //Short Hand ifelse
+        int time1 = 20;
+        String result1 = (time1 < 18) ? "Good day." : "Good evening.";
+        System.out.println(result1);
+
+
+        //Program to check Odd-Even numbers
+        int num3=48753;
+        if(num3%2 == 0){
+            System.out.println("Num3 is even");
+        } else {
+            System.out.println("Num3 is odd");
+        }
+
+
     }
 }
