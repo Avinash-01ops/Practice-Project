@@ -34,6 +34,12 @@ public class P12Arrays {
             avg=sum/ages.length;
             System.out.println("Average age is: "+avg);
         }
+        String[] bus={"bus1","bus2","bus3","bus4","bus5","bus6"};
+        for (String j:bus){
+            if(j=="bus3") {
+                System.out.println("This is my bus =" +j);
+            }
+        }
 
 
     }

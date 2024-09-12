@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dcb7dd3-f06b-4d5e-a492-e75967c2bba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unit1/P10Swtichcase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit1/P11Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit1/P12Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit1/P9Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1/P9Ifelse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1/P12Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1/P12Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +66,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
+    "com.codeium.snoozedEndTime": "1726111859261",
     "git-widget-placeholder": "Test-Branch",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "editor.preferences.completion"
@@ -239,8 +236,27 @@
       <option name="project" value="LOCAL" />
       <updated>1726016605145</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1726107438231</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726107438231</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -251,7 +267,8 @@
     <MESSAGE value="Operators" />
     <MESSAGE value="Stringoperators" />
     <MESSAGE value="ifelse" />
-    <option name="LAST_COMMIT_MESSAGE" value="ifelse" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
