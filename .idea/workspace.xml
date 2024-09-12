@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dcb7dd3-f06b-4d5e-a492-e75967c2bba1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Unit1/P10Swtichcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit1/P11Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit1/P12Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit1/P9Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1/P9Conditionals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1/P9Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1/P9Ifelse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +34,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Unit1/P9Conditionals.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -42,32 +48,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P2Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P3StudentData.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P4AreaofRectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P4DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P5JavaNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P5JavaTypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P6Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P7Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P8MathClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P9Conditionals.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Test-Branch&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.P10Swtichcase.executor": "Run",
+    "Application.P11Loops.executor": "Run",
+    "Application.P11WhileLoop.executor": "Run",
+    "Application.P12Arrays.executor": "Run",
+    "Application.P2Variables.executor": "Run",
+    "Application.P3StudentData.executor": "Run",
+    "Application.P4AreaofRectangle.executor": "Run",
+    "Application.P4DataTypes.executor": "Run",
+    "Application.P5JavaNumbers.executor": "Run",
+    "Application.P5JavaTypeCasting.executor": "Run",
+    "Application.P6Operators.executor": "Run",
+    "Application.P7Strings.executor": "Run",
+    "Application.P8MathClass.executor": "Run",
+    "Application.P9Conditionals.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "Test-Branch",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
-}</component>
-  <component name="RunManager" selected="Application.P9Conditionals">
-    <configuration name="P5JavaTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P5JavaTypeCasting" />
+}]]></component>
+  <component name="RunManager" selected="Application.P12Arrays">
+    <configuration name="P10Swtichcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1.P10Swtichcase" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P6Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P6Operators" />
+    <configuration name="P11Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1.P11Loops" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P7Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P7Strings" />
+    <configuration name="P12Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1.P12Arrays" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9Conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P9Conditionals" />
+    <configuration name="P9Ifelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1.P9Ifelse" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P9Conditionals" />
+        <item itemvalue="Application.P12Arrays" />
+        <item itemvalue="Application.P11Loops" />
+        <item itemvalue="Application.P10Swtichcase" />
+        <item itemvalue="Application.P9Ifelse" />
         <item itemvalue="Application.P8MathClass" />
-        <item itemvalue="Application.P7Strings" />
-        <item itemvalue="Application.P6Operators" />
-        <item itemvalue="Application.P5JavaTypeCasting" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725363930955</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ifelse">
+      <option name="closed" value="true" />
+      <created>1726016605145</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726016605145</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
