@@ -10,10 +10,10 @@ public class P12Arrays {
         System.out.println(mynum[2]);
         System.out.println(mynum[3]);
 
-        System.out.println("Array mynum length is "+mynum.length); //check the length of array
+        System.out.println("Array mynum length is " + mynum.length); //check the length of array
 
         //change an element in array
-        mynum[3]=100;
+        mynum[3] = 100;
         System.out.println(mynum[3]);
 
         //For loop in array
@@ -21,26 +21,42 @@ public class P12Arrays {
             System.out.println(i);
         }
 
-        for(int i:mynum){
+        for (int i : mynum) {
             System.out.println(i);
         }
 
         //create a program that calculates the average of different ages:
         int ages[] = {20, 22, 18, 35, 48, 26, 87, 70};
-        float sum=0, avg=0;
+        float sum = 0, avg = 0;
         System.out.println(ages.length);
-        for (int age:ages){
-            sum+=age;
-            avg=sum/ages.length;
-            System.out.println("Average age is: "+avg);
+        for (int age : ages) {
+            sum += age;
+            avg = sum / ages.length;
+            System.out.println("Average age is: " + avg);
         }
-        String[] bus={"bus1","bus2","bus3","bus4","bus5","bus6"};
-        for (String j:bus){
-            if(j=="bus3") {
-                System.out.println("This is my bus =" +j);
+        String[] bus = {"bus1", "bus2", "bus3", "bus4", "bus5", "bus6"};
+        for (String j : bus) {
+            if (j == "bus3") {
+                System.out.println("This is my bus =" + j);
             }
         }
 
+
+        //Multidimesional arrays
+        int[][] mynum1 = {{1, 2, 3}, {4, 5, 6}};
+        System.out.println(mynum1[0][0]);
+        System.out.println(mynum1[0][1]);
+        System.out.println(mynum1[0][2]);
+        System.out.println(mynum1[1][0]);
+        System.out.println(mynum1[1][1]);
+        System.out.println(mynum1[1][2]);
+
+        //Lets change value in array
+        mynum1[1][0] = 10;
+        System.out.println(mynum1[1][0]);
+
+        //checking length of a 2D array
+        System.out.println("mynum1 array length " + mynum1.length);
 
     }
 }

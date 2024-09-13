@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dcb7dd3-f06b-4d5e-a492-e75967c2bba1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit1/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit2/P13Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Unit1/P12Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1/P12Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,10 +52,13 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.P1.executor": "Run",
     "Application.P10Swtichcase.executor": "Run",
     "Application.P11Loops.executor": "Run",
     "Application.P11WhileLoop.executor": "Run",
     "Application.P12Arrays.executor": "Run",
+    "Application.P13Methods (1).executor": "Run",
+    "Application.P13Methods.executor": "Run",
     "Application.P2Variables.executor": "Run",
     "Application.P3StudentData.executor": "Run",
     "Application.P4AreaofRectangle.executor": "Run",
@@ -65,14 +72,26 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.codeium.enabled": "true",
-    "com.codeium.snoozedEndTime": "1726111859261",
+    "com.codeium.snoozedEndTime": "0",
     "git-widget-placeholder": "Test-Branch",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P12Arrays">
+  <component name="RunManager" selected="Application.P1">
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.P1" />
+      <module name="Practice Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P10Swtichcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit1.P10Swtichcase" />
       <module name="Practice Project" />
@@ -112,25 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P8MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P8MathClass" />
+    <configuration name="P13Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit2.P13Methods" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P9Ifelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P9Ifelse" />
-      <module name="Practice Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit1.*" />
+          <option name="PATTERN" value="Unit2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1" />
+        <item itemvalue="Application.P13Methods" />
         <item itemvalue="Application.P12Arrays" />
         <item itemvalue="Application.P11Loops" />
         <item itemvalue="Application.P10Swtichcase" />
-        <item itemvalue="Application.P9Ifelse" />
-        <item itemvalue="Application.P8MathClass" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726107438231</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1726108501736</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726108501736</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
