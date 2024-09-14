@@ -1,9 +1,9 @@
 package Practice;
 import java.util.Scanner;
 
-public class P1 {
+public class P1Basics {
     public static void main(String[] args) {
-        /*//Ex1-1Write a Java program to print 'Hello' on screen and your name on a separate line.
+        //Ex1-1Write a Java program to print 'Hello' on screen and your name on a separate line.
         System.out.println("Hello World");
         System.out.println("My name is Avinash");
 
@@ -26,14 +26,14 @@ public class P1 {
         //Ex4-Input and print the sum (addition), multiply, subtract, divide and remainder of two numbers
         Scanner in1 = new Scanner(System.in);
         System.out.println("Enter number x: ");
-        int x = in1.nextInt();
+        int x1 = in1.nextInt();
         System.out.println("Enter number y: ");
-        int y = in1.nextInt();
-        System.out.println("Sum: "+(x+y));
-        System.out.println("Multiplication: "+(x*y));
-        System.out.println("Subraction: "+(x-y));
-        System.out.println("Division: "+(x/y));
-        System.out.println("Remainder: "+(x%y));*/
+        int y1 = in1.nextInt();
+        System.out.println("Sum: "+(x1+y1));
+        System.out.println("Multiplication: "+(x1*y1));
+        System.out.println("Subraction: "+(x1-y1));
+        System.out.println("Division: "+(x1/y1));
+        System.out.println("Remainder: "+(x1%y1));
 
         //Ex5-Write a Java program that takes a number as input and prints its multiplication table up to 10.
         Scanner in2 =  new Scanner(System.in);
@@ -42,6 +42,12 @@ public class P1 {
         for(int i=1;i<=10;i++){
             System.out.println(i*num1);
         }
+        //Ex6-Print you initial using 0
+        System.out.println("    0  ");
+        System.out.println("   0 0 ");
+        System.out.println("  00000");
+        System.out.println(" 0     0");
+        System.out.println("0       0");
 
     }
 }
