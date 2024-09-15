@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dcb7dd3-f06b-4d5e-a492-e75967c2bba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/P2PatternPrograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P1Basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/P1Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/P2PatternPrograms.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +62,8 @@
     "Application.P12Arrays.executor": "Run",
     "Application.P13Methods (1).executor": "Run",
     "Application.P13Methods.executor": "Run",
+    "Application.P1StandardOprerations.executor": "Run",
+    "Application.P1_Read_and_Print_Integer_value.executor": "Run",
     "Application.P2PatternPrograms.executor": "Run",
     "Application.P2Variables.executor": "Run",
     "Application.P3StudentData.executor": "Run",
@@ -68,6 +75,12 @@
     "Application.P7Strings.executor": "Run",
     "Application.P8MathClass.executor": "Run",
     "Application.P9Conditionals.executor": "Run",
+    "Application.Practice.Program1.executor": "Run",
+    "Application.Program1.executor": "Run",
+    "Application.Program2Swap.executor": "Run",
+    "Application.Program3.executor": "Run",
+    "Application.Program4.executor": "Run",
+    "Application.Program5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -77,9 +90,9 @@
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P2PatternPrograms">
-    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.P1" />
+  <component name="RunManager" selected="Application.Program5">
+    <configuration name="Practice.Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Program1" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P11Loops" />
+    <configuration name="Program2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Program2" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit1.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P12Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1.P12Arrays" />
+    <configuration name="Program3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Program3" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit1.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P13Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit2.P13Methods" />
+    <configuration name="Program4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Program4" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit2.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2PatternPrograms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.P2PatternPrograms" />
+    <configuration name="Program5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Program5" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P2PatternPrograms" />
-        <item itemvalue="Application.P1" />
-        <item itemvalue="Application.P13Methods" />
-        <item itemvalue="Application.P12Arrays" />
-        <item itemvalue="Application.P11Loops" />
+        <item itemvalue="Application.Program5" />
+        <item itemvalue="Application.Program4" />
+        <item itemvalue="Application.Program3" />
+        <item itemvalue="Application.Program2Swap" />
+        <item itemvalue="Application.Practice.Program1" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726253936316</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="pattern">
+      <option name="closed" value="true" />
+      <created>1726330669467</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726330669467</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +311,8 @@
     <MESSAGE value="ifelse" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <MESSAGE value="pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
