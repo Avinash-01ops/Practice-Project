@@ -12,7 +12,5 @@ public class P4AreaofRectangle {
         int width1 = 10;
         int area1 = length1*width1;
         System.out.println("Area of Rectangle: "+area1);
-
-        //
     }
 }

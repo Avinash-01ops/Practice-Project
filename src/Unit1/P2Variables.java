@@ -9,11 +9,12 @@ public class P2Variables {
     boolean - stores values with two states: true or false
      */
     public static void main(String[] args) {
-        int a=10; //integer
-        String b="hello"; //String
-        float c=10.5f; //float
-        char d='a'; //char
-        boolean e=true; //boolean
+        //Variables
+        int a = 10;
+        float b = 20.5F;
+        char c = 'A';
+        String d = "Hello Java";
+        boolean e = true;
 
         System.out.println(a);
         System.out.println(b);
@@ -21,16 +22,65 @@ public class P2Variables {
         System.out.println(d);
         System.out.println(e);
 
-        int aa = 10;
-        int bb = 20;
-        int cc = aa + bb;
-        System.out.println(cc);
+        //Create a variable called myNum of type int and assign it the value 15:
+        int myNum;
+        myNum = 10;
+        System.out.println(myNum);
 
-        //Declaring multiple variables
-        int x, y, z;
-        x = 10;
-        y = 20;
-        z = 30;
+        //use the + character to add a variable to another variable
+        String car = "BMW M5 Competition";
+        System.out.println("My fav car is " + car);
+
+        String firstName = "John";
+        String lastName = "Smith";
+        System.out.println("Full name:" + firstName + " " + lastName);
+
+        //Assign same value to multiple variables
+        int x,y,z;
+        x=y=z=50;
         System.out.println(x+y+z);
+    }
+}
+
+class Var1{
+    public static void main(String[] args) {
+        //Local variable scope exists within the block only
+        int a = 10;
+        System.out.println("value of a is: "+a);
+    }
+}
+
+class Var2 {
+    //Declaring instance variables
+    public int x;
+    public float y;
+    public String z;
+
+    public Var2() {
+        //Constructor
+        //Initializing instance variable
+        this.x = 10;            // Default value: 0
+        this.z = "Hello Java";  // Default value: null
+        this.y = 20.5F;         // Default value: 0
+    }
+
+    //L1Basics.Main method
+    public static void main(String[] args) {
+        //Creating object
+        Var2 name = new Var2();
+
+        //Output
+        System.out.println("value of x is: " + name.x);
+        System.out.println("value of y is: " + name.y);
+        System.out.println("value of z is: " + name.z);
+    }
+}
+
+class Var3{
+    //Declaring a static variable
+    public static String q = "Avi";
+    public static void main(String[] args) {
+        //Static variables can be accessed without object creating
+        System.out.println("Hello "+ Var3.q);
     }
 }

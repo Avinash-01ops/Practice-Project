@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dcb7dd3-f06b-4d5e-a492-e75967c2bba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Program8.java" afterDir="false" />
+    <list default="true" id="6dcb7dd3-f06b-4d5e-a492-e75967c2bba1" name="Changes" comment="practice">
+      <change afterPath="$PROJECT_DIR$/src/Unit1/P1HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit1/P3DataTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1/P2Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1/P2Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1/P3StudentData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1/P4AreaofRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1/P4AreaofRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1/P4DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1/P5JavaTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1/P5JavaTypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -32,7 +40,7 @@
     <setting file="file://$PROJECT_DIR$/src/Unit1/P9Conditionals.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -80,20 +88,29 @@
     "Application.Program8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.snoozedEndTime": "0",
     "git-widget-placeholder": "Test-Branch",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "last_opened_file_path": "D:/Java/Java Project/Practice-Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program8">
-    <configuration name="Program4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Program4" />
+  <component name="RunManager" selected="Application.P4DataTypes">
+    <configuration name="P4DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1.P4DataTypes" />
       <module name="Practice Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Unit1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,18 +172,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P4DataTypes" />
         <item itemvalue="Application.Program8" />
         <item itemvalue="Application.Program7" />
         <item itemvalue="Application.Program6" />
         <item itemvalue="Application.Program5" />
-        <item itemvalue="Application.Program4" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -178,6 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725343198994</updated>
+      <workItem from="1733487096514" duration="1263000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <option name="closed" value="true" />
@@ -302,6 +321,9 @@
     <option name="localTasksCounter" value="16" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -326,16 +348,5 @@
     <MESSAGE value="pattern" />
     <MESSAGE value="practice" />
     <option name="LAST_COMMIT_MESSAGE" value="practice" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Unit1/P8MathClass.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

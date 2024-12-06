@@ -45,3 +45,21 @@ public class P5JavaTypeCasting {
        System.out.println(myshort2);
     }
 }
+
+class TypeCasting {
+    public static void main(String[] args) {
+        //Wide casting : Converting smaller data type to larger data type in size
+        //byte -> short -> char -> int -> long -> float -> double
+        int myint1 = 10;
+        double mydouble1 = myint1;
+        System.out.println("Value of myint is " + myint1);
+        System.out.println("Value of mydouble is " + mydouble1);
+
+        //Narrow casting : Converting larger data type to smaller datatype in size
+        //double -> float -> long -> int -> char -> short -> byte
+        double mydouble2 = 100.50d;
+        int myint2 = (int)mydouble2;
+        System.out.println("Value of mydouble2 is " + mydouble2);
+        System.out.println("Value of myint2 is " + myint2);
+    }
+}
